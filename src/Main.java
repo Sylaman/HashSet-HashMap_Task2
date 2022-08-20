@@ -11,5 +11,7 @@ public class Main {
         System.out.println(wordsChecker.hasWord("culpa"));
         System.out.println(wordsChecker.hasWord("Lorem"));
         System.out.println(wordsChecker.hasWord("слово"));
+        System.out.println(wordsChecker.hasWord("enim"));
+        System.out.println(wordsChecker.hasWord("mukulele"));
     }
 }
